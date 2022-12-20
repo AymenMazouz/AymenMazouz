@@ -1,4 +1,4 @@
-[![MasterHead](https://libg.s3.us-east-2.amazonaws.com/download/Coding-Website-Layout.jpg)]
+![MasterHead](https://libg.s3.us-east-2.amazonaws.com/download/Coding-Website-Layout.jpg)
 <h1 align="center">Hi 👋, I'm Mazouz Abderrahmane Aimen</h1>
 <h3 align="center">I'm an 3rd year student at the Higher School of computer science (ESI)</h3>
 
