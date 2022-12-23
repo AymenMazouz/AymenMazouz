@@ -1,6 +1,6 @@
 ![MasterHead](https://libg.s3.us-east-2.amazonaws.com/download/Coding-Website-Layout.jpg)
 <h1 align="center">Hi 👋, I'm Mazouz Abderrahmane Aimen</h1>
-<h3 align="center">I'm an 3rd year student at the Higher School of computer science (ESI)</h3>
+<h3 align="center">I'm an 3rd year student at the Higher School of computer science (ESI) Algiers</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aymenmazouz" alt="aymenmazouz" /></a> </p>
 
