@@ -79,7 +79,7 @@
 <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a> 
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354365/sonarqube.svg" alt="SonarQube" height="60" /></a>  
-<a href="https://www.selenium.dev/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/svg/354321/selenium" alt="SonarQube" height="60" /></a>  
+<a href="https://www.selenium.dev/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354321/selenium.svg" alt="SonarQube" height="60" /></a>  
 
 <a href="https://gradle.org/
 " target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/353831/gradle.svg" alt="SonarQube" height="60" /></a>  
